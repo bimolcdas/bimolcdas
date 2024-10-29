@@ -1,5 +1,5 @@
 ## Hi, I'm Bimol Chandra Das 👋
-[<img src='https://drive.google.com/file/d/1WpIu7wwxrSAhgkcFrTZndyPDs4fVW40V/view?usp=sharing''>](https://github.com/shovoalways/)
+[<img src='https://github.com/bimolcdas/bimolcdas/blob/main/GitHub%20Cover.png'>](https://github.com/shovoalways/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
