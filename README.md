@@ -1,10 +1,22 @@
 [<img src='https://github.com/bimolcdas/bimolcdas/blob/main/GitHub%20Cover.png?raw=true' alt='Bimol Chandra Das'>](https://github.com/bimolcdas/)
-<p>
 
-<p align="left"> <a href="https://twitter.com/bimolcdas" target="blank"><img src="https://img.shields.io/twitter/follow/bimolcdas?logo=twitter&style=for-the-badge" alt="bimolcdas" /></a> </p>
+<p align="right">
+    <a href="https://www.linkedin.com/in/bimolcdas/" target="_blank">
+        <img src="https://github.com/bimolcdas/bimolcdas/blob/main/linkedin.png?raw=true" alt="LinkedIn - Bimol Chandra Das" height="25">
+    </a> 
+    <a href="https://twitter.com/bimolcdas" target="_blank">
+        <img src="https://github.com/bimolcdas/bimolcdas/blob/main/twitter.png?raw=true" alt="Twitter - Bimol Chandra Das" height="25">
+    </a>
+</p>
+
 
 ## 🚀 About Me
-👋 Hi, I'm Bimol Chandra Das! An experienced data analyst with 5 years of experience in the technology, service, and analytics domains. I am driven by the challenge of transforming data into actionable insights and love solving real-world problems through data-driven strategies.
+
+I'm a dedicated data professional passionate about uncovering insights through detailed analysis. With over **5 years of experience** in data collection, profiling, and analysis, I'm skilled at transforming raw data into actionable insights that drive decision-making.
+
+As a curious, lifelong learner, I thrive on **collaboration** and **innovation**. I value **quality, transparency, balance, and excellence** in all my work and am always eager to learn from the teams and organizations I work with.
+
+If you're looking for someone who can turn data into **strategic insights**, let's CONNECT!
 
 
 ## 🛠 Skills
@@ -32,7 +44,3 @@
 
 ![Bimol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimolcdas&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimolcdas&layout=compact&theme=radical)
-
-
-## ☕ Connect with me!
-[<img src='https://github.com/bimolcdas/bimolcdas/blob/main/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/bimolcdas/) [<img src='https://github.com/bimolcdas/bimolcdas/blob/main/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/bimolcdas) 
